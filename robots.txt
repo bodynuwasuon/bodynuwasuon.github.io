@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bodynuwasuon.github.io/sitemap.xml
